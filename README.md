@@ -1,3 +1,2 @@
 # js-assignment
-Assignment
 ASSIGNMENT
